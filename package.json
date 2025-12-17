@@ -5,8 +5,9 @@
 	"version": "0.0.0",
 	"private": true,
 	"engines": {
-  "node": ">=18"
+  "node": "18.x"
 },
+
 
 	"scripts": {
   "dev": "vite --host --port 3000",
