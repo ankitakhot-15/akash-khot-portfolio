@@ -378,7 +378,7 @@ const handleDownloadResume = () => {
   const link = document.createElement("a");
   link.href = RESUME_PATH;
   link.download = "Ankita_Khot_Resume.pdf";
-  link.target = "_blank";
+  link.rel = "noopener noreferrer";
 
   document.body.appendChild(link);
   link.click();
