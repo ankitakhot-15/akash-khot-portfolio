@@ -10,8 +10,8 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      value: "ankitakhot012@gmail.com",
-      action: () => window.location.href = "mailto:ankitakhot012@gmail.com",
+      value: "khotakash30@gmail.com",
+      action: () => window.location.href = "mailto:khotakash30@gmail.com",
       color: "text-blue-500",
       bgColor: "bg-blue-500/10",
       borderColor: "border-blue-500/20"

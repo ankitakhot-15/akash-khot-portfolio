@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "ankita-khot-portfolio",
+    "site": "akash-khot-portfolio",
     "public": "dist",
     "ignore": [
       "firebase.json",

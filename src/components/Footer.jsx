@@ -62,7 +62,7 @@ const Footer = () => {
             className="space-y-2"
           >
             <p className="text-base lg:text-lg text-slate-300 flex items-center justify-center gap-2">
-              Made with <Heart className="w-5 h-5 text-red-500 fill-current" /> by Ankita Khot
+              Made with <Heart className="w-5 h-5 text-red-500 fill-current" /> by Akash Khot
             </p>
             <p className="text-sm text-slate-400">
               © 2025 All rights reserved
