@@ -392,6 +392,7 @@ const handleDownloadResume = () => {
 
 
 
+
   return (
     <section
       id="hero"
